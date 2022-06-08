@@ -39,9 +39,9 @@ Below are the factors which I think can affect the Loan Approval (dependent vari
 
 - Applicants who have property in urban and have credit history have maximum applicant income
 
--Applicants who are graduate and have credit history have more applicant income.
+- Applicants who are graduate and have credit history have more applicant income.
 
--Loan Amount is linearly dependent on Applicant income
+- Loan Amount is linearly dependent on Applicant income
 
 - From heatmaps, applicant income and loan amount are highly positively correlated.
 
